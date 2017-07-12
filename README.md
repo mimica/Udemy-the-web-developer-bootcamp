@@ -4,5 +4,7 @@
 https://www.udemy.com/the-web-developer-bootcamp
 
 ### Tips
-<code><b> ->  <strong></code> : more meaningful bold
-<code><i> -> <em></code> : more meaningful italic / emphasize
+b ->  strong : more meaningful bold
+i -> em : more meaningful italic / emphasize
+
+span vs div : span is for grouping content inline but div creates a new line at the end (a block).

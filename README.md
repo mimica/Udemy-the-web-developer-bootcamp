@@ -1,4 +1,4 @@
 # Udemy-the-web-developer-bootcamp
 
-## CodePen : randon background color with JS
-https://codepen.io/Colt/pen/WQQVvE
+##Sample code for the course
+https://www.udemy.com/the-web-developer-bootcamp

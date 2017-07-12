@@ -4,5 +4,5 @@
 https://www.udemy.com/the-web-developer-bootcamp
 
 ### Tips
-<b> ->  <strong> : more meaningful bold
-<i> -> <em> : more meaningful italic
+<code><b> ->  <strong></code> : more meaningful bold
+<code><i> -> <em></code> : more meaningful italic / emphasize
